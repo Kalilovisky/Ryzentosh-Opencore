@@ -1,6 +1,7 @@
 # OpenCore EFI for AMD Ryzen Hackintosh
 
-**macOS version**: 10.15.7 
+**macOS version**: 10.15.7
+
 **OpenCore version**: 0.6.3
 
 ## Hardware
