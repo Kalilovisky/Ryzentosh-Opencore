@@ -30,3 +30,7 @@
   3. Download [**GenSMBIOS**](https://github.com/corpnewt/GenSMBIOS) to generate unique SMBIOS information. Run it and select **Generate SMBIOS**, as the model select **iMacPro1,1**.
   4. Open config.plist with [**ProperTree**](https://github.com/corpnewt/ProperTree) and go to PlatformInfo > Generic. Set MLB (Board Serial), SystemSerialNumber (Serial) and SystemUUID (SmUUID) to generated values. Change ROM to your network card's MAC address without the `:` character. [**How to get MAC Address?**](https://www.wikihow.com/Find-the-MAC-Address-of-Your-Computer)
   5. Boot it! 
+  
+  ## Cedits and links:
+  * [AMD OS X](https://forum.amd-osx.com/)
+  * [OpenCore Desktop Guide](https://github.com/dortania/OpenCore-Desktop-Guide)
